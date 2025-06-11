@@ -3,6 +3,8 @@
 
 This is in reference to getting [gpui-component](https://github.com/longbridge/gpui-component) to use zed locally instead of from github.
 
+---
+
 Cargo.toml
 
 ```rust
